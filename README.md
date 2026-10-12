@@ -2,6 +2,8 @@
 
 基于陈勇《超级转化率》、福格行为模型与行为设计方法，诊断页面和转化流程，先分析、再给建议、最后生成优化后的 UI 效果图。个人经验仅作参考，改版效果需要实际验证。
 
+仓库地址：https://github.com/zonghan-zzz/super-conversion
+
 ## 使用
 
 将整个仓库作为 `super-conversion` 文件夹安装到支持本地 Skills 的工具中。Codex 可放入 `~/.agents/skills/super-conversion/`。

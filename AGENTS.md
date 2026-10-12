@@ -1,6 +1,6 @@
 # 维护约定
 
-此仓库维护 `super-conversion` skill。用户已要求后续 skill 更新同步到同一个 Git 远程地址。
+此仓库维护 `super-conversion` skill。固定远程地址为 `https://github.com/zonghan-zzz/super-conversion.git`。用户已要求后续 skill 更新同步到同一个 Git 远程地址。
 
 - 更新本 skill 时，以此仓库为维护入口，保留完整的 `SKILL.md`、`agents/` 和 `references/`。
 - 完成已授权的更新后，检查相对引用和内容一致性，提交清晰的 Git commit，并推送到现有 `origin`。首次上传后的后续更新不得自行更换远程地址或创建替代仓库。
