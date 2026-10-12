@@ -1,0 +1,4 @@
+interface:
+  display_name: "超级转化"
+  short_description: "结合福格模型与转化六要素，先分析建议再生成 UI 图，个人经验仅作参考"
+  default_prompt: "使用 $super-conversion 分析我的 Figma 链接或 UI 截图，结合福格模型、超级转化率六要素与页面证据，先分析阻碍并提出具体建议，再生成 UI 效果图；个人经验仅供参考，暂不实现交互页面。"
