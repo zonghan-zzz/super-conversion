@@ -1,4 +1,4 @@
 interface:
   display_name: "超级转化"
-  short_description: "结合六要素与福格模型设计转化器，兼顾内容完整、清晰与可兑现权益"
-  default_prompt: "使用 $super-conversion 分析我的 Figma 链接或 UI 截图，结合福格模型、超级转化率六要素与页面证据，先建立内容清单，分析阻碍并设计具有具体用户收益与可信行动理由的转化器，再生成清晰完整的 UI 效果图；个人经验仅供参考，暂不实现交互页面。"
+  short_description: "结合六要素与福格模型重组页面，设计贴合场景的多形态转化器"
+  default_prompt: "使用 $super-conversion 分析我的 Figma 链接或 UI 截图，结合福格模型、超级转化率六要素与页面证据，重构首屏和内容顺序，为各场景选择有具体用户收益的转化器形式，再生成简洁完整的 UI 效果图；个人经验仅供参考。"
